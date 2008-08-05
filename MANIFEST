@@ -1,0 +1,12 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-LW2.t
+lib/WWW/LW2.pm
+examples/api_demo.pl
+examples/crawl_demo.pl
+examples/form_demo1.pl
+examples/form_demo2.pl
+examples/simple_demo.pl
+
